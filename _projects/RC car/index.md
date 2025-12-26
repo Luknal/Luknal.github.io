@@ -8,3 +8,5 @@ skills:
 - Onshape
 main-image: /Top_view.jpg
 ---
+{% include image-gallery.html images="Front_View.jpg" height="700" %}
+---
