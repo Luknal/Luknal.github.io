@@ -12,5 +12,4 @@ main-image: /Top_view.jpg
 ---
 ## Onshape design
 {% include image-gallery.html images="/_projects/RC car/Suspension_steering.png" height="400" %}
-
 ---
