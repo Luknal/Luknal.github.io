@@ -10,3 +10,6 @@ main-image: /Top_view.jpg
 ---
 {% include image-gallery.html images="Front_View.jpg" height="400" %}
 ---
+## Onshape design
+{% include image-gallery.html images="Suspension&Steering.png" height="400" %}
+---
