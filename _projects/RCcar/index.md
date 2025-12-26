@@ -8,8 +8,8 @@ skills:
 - Onshape
 main-image: /Top_view.jpg
 ---
-{% include image-gallery.html images="/_projects/RCcar/Front_view.jpg" height="400" %}
+{% include image-gallery.html images="Front_view.jpg" height="400" %}
 ---
 ## Onshape design
-{% include image-gallery.html images="/_projects/RCcar/Suspension_steering.png" height="400" %}
+{% include image-gallery.html images="Suspension_steering.png" height="400" %}
 ---
