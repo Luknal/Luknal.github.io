@@ -6,5 +6,5 @@ skills:
 - Ultrasound
 - Matlab
 - Microbubbles
-main-image: /project.webp 
+main-image: /ContractFundamental.png
 ---
