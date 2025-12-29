@@ -5,5 +5,9 @@ description:  Contributed to the development of a modular, adjustable transtibia
 skills: 
 - CAD/onshape/solidwork
 - simulation/testing
-main-image: /project.webp 
+main-image: /image.jpg 
+---
+{% include image-gallery.html images="Overall.jpg" height="400" %}
+---
+{% include image-gallery.html images="Poster.jpg" height="400" %}
 ---
