@@ -9,5 +9,7 @@ skills:
 
 main-image: /Cell.jpg
 ---
+{% include image-gallery.html images="Cell.jpg" height="400" %}
+---
 {% include image-gallery.html images="Scope.jpg" height="400" %}
 ---
