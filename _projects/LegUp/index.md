@@ -7,6 +7,9 @@ skills:
 - simulation/testing
 main-image: /image.jpg 
 ---
+## Onshape
+{% include image-gallery.html images="assem.png" height="400" %}
+---
 {% include image-gallery.html images="Overall.jpg" height="400" %}
 ---
 {% include image-gallery.html images="Poster.jpg" height="400" %}
