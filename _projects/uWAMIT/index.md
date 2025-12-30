@@ -8,3 +8,7 @@ skills:
 - Microbubbles
 main-image: /ContractFundamental.png
 ---
+{% include image-gallery.html images="tic.png" height="400" %}
+---
+{% include image-gallery.html images="par.png" height="400" %}
+---
