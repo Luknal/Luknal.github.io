@@ -7,5 +7,7 @@ skills:
   - Materials synthesis
   - Experimental design
 
-main-image: /project2.jpg
+main-image: /Cell.jpg
+---
+{% include image-gallery.html images="Scope.jpg" height="400" %}
 ---
