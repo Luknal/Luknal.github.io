@@ -5,9 +5,7 @@ description: A classical cipher that is able to encrypt a plaintext into a ciphe
 skills: 
   - Java
 
-main-image: 
+main-image: /Cipher.png
 ---
-{% include image-gallery.html images="Cell.jpg" height="400" %}
----
-{% include image-gallery.html images="Scope.jpg" height="400" %}
+{% include image-gallery.html images="Code.jpg" height="400" %}
 ---
