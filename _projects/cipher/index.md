@@ -7,5 +7,7 @@ skills:
 
 main-image: /Cipher.png
 ---
-{% include image-gallery.html images="Code.png" height="400" %}
+{% include image-gallery.html images="Client.png" height="400" %}
+---
+{% include image-gallery.html images="Cipher abstract class.png" height="400" %}
 ---
